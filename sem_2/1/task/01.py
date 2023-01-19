@@ -60,13 +60,10 @@ def test_init_1():
         fuel_now=0)
 
 
-# test_init_1()
-
 def test_init_2():
     Car(color='white')
 
 
-# test_init_2()
 def test_color_1():
     c = Car(color='white',
             engine_power=90,
@@ -76,7 +73,6 @@ def test_color_1():
     assert c.get_color() == 'white'
 
 
-# test_color_1()
 def test_color_2():
     c = Car(color='white',
             engine_power=90,
@@ -87,7 +83,6 @@ def test_color_2():
     c.set_color('red')
 
 
-# test_color_2()
 def test_color_3():
     c = Car(color='white',
             engine_power=90,
@@ -98,5 +93,3 @@ def test_color_3():
     c.set_color('red')
 
     assert c.get_color() == 'red'
-
-# test_color_3()
