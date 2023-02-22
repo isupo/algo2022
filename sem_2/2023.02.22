@@ -16,3 +16,7 @@ git push origin super_ficha_1
 4. create pull request
 5. squash - чтоб объединить коммиты в один
 6. Вы молодец
+
+Опять локально
+1. git checkout master - перейти в мастер
+2. git pull - подтянуть изменения
