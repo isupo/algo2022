@@ -5,3 +5,14 @@
 5. git init
 6. git commit
 7. git push 
+
+Работа с ветками
+1. Создание
+git branch -i super_ficha_1
+2. Перейти
+git checkout super_ficha_1
+3. Запушить
+git push origin super_ficha_1
+4. create pull request
+5. squash - чтоб объединить коммиты в один
+6. Вы молодец
