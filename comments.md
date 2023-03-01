@@ -20,6 +20,8 @@ https://github.com/KochuraAnzhelika/cite \
 
 https://github.com/WpBog/ForumAMCMD \
 Александр, Даня, Даша Булах	\
+TODO: http://localhost:8080/ \ 
+TODO: KeyError: 'id' \
 
 https://github.com/bel4vskiy/project_python \
 Стас	
