@@ -8,7 +8,7 @@ TODO все игры убрать в одну папочку
 
 https://github.com/snezana555/empty \
 Снежана, Кирилл, Артем, Александра	\
-
+TODO: .gitignore. Не должно быть .idea, __pycache__\
 
 
 https://github.com/nzhct/game_of_life_website \
@@ -27,6 +27,7 @@ TODO: KeyError: 'id' \
 
 https://github.com/bel4vskiy/project_python \
 Стас	
+TODO: чет мало интерактива 
 
 https://github.com/GalkinaR/project \
 Регина, Аня	
