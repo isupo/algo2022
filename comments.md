@@ -13,7 +13,7 @@ https://github.com/snezana555/empty \
 
 https://github.com/nzhct/game_of_life_website \
 Мстисла, Виталя, Юля, Глеб	 \
-TODO: .gitignore. Не должно быть .idea
+TODO: .gitignore. Не должно быть .idea, __pycache__
 
 
 https://github.com/KochuraAnzhelika/cite \
